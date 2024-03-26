@@ -22,3 +22,5 @@ print("*******************")
 
 for a in range(10): #first index will be considered as 0 always and not 1
     print(a)
+
+print("Second commit")
