@@ -24,3 +24,6 @@ for a in range(10): #first index will be considered as 0 always and not 1
     print(a)
 
 print("Second commit")
+print("3rd commit")
+print("4th commit")
+print("5th commit")
